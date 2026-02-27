@@ -1,0 +1,41 @@
+BODY {
+	BACKGROUND-COLOR: #EDEDF8
+}
+.forfuture {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.9em; VERTICAL-ALIGN: top; COLOR: blue; FONT-FAMILY: Arial, Helvetica, helv, sans-serif
+}
+.mnleft {
+	background-image: url(bg1.gif);
+}
+.byleft {
+	background-image: url(blue2.gif);
+}
+.bybd {
+	BACKGROUND-IMAGE: url(blue2.gif); BACKGROUND-COLOR: lightblue
+}
+.bycont {
+	BACKGROUND-IMAGE: url(bybg1.gif); BACKGROUND-COLOR: lightblue
+}
+.bynm {
+	FONT-WEIGHT: bold; VERTICAL-ALIGN: top; COLOR: blue; FONT-FAMILY: Helvetica, Arial, Times,  helv, serif
+}
+.bymn {
+	VERTICAL-ALIGN: top; COLOR: black; FONT-FAMILY: Helvetica, Arial, Times,  helv, serif
+}
+.glleft {
+	background-image: url(blue2.gif);
+}
+.glbd {
+	BACKGROUND-IMAGE: url(pink2.gif); BACKGROUND-COLOR: #EDEDF8
+}
+.glcont {
+	BACKGROUND-IMAGE: url(glbg1.gif); BACKGROUND-COLOR: lightcyan
+}
+.glnm {
+	FONT-WEIGHT: bold; VERTICAL-ALIGN: top; COLOR: red; FONT-FAMILY: Helvetica, Arial, Times, helv, serif
+}
+.glmn {
+	VERTICAL-ALIGN: top; COLOR: black; FONT-FAMILY: Helvetica, Arial, Times,  helv, serif
+}
+
+
