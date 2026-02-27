@@ -329,12 +329,14 @@
       "meaning": ""
     },
     {
-      "name": "Arasan",
-      "meaning": "King"
+      "name": "Arasan *",
+      "meaning": "King",
+      "thiruppaavai": true
     },
     {
-      "name": "Arasan",
-      "meaning": "King; Also Arasu"
+      "name": "Arasan *",
+      "meaning": "King; Also Arasu",
+      "thiruppaavai": true
     },
     {
       "name": "Aravaanan",
@@ -385,12 +387,14 @@
       "meaning": "Radiating with Intelligence"
     },
     {
-      "name": "Arivu",
-      "meaning": "Wisdom"
+      "name": "Arivu *",
+      "meaning": "Wisdom",
+      "thiruppaavai": true
     },
     {
-      "name": "Arivu",
-      "meaning": "Intelligence"
+      "name": "Arivu *",
+      "meaning": "Intelligence",
+      "thiruppaavai": true
     },
     {
       "name": "ArivuCheliyan",
@@ -649,8 +653,9 @@
       "meaning": "Precious"
     },
     {
-      "name": "Chelvan",
-      "meaning": "Prosperous"
+      "name": "Chelvan *",
+      "meaning": "Prosperous",
+      "thiruppaavai": true
     },
     {
       "name": "Chembiyan",
@@ -1057,8 +1062,9 @@
       "meaning": "Prince"
     },
     {
-      "name": "IlamSingam",
-      "meaning": "Young Lion"
+      "name": "IlamSingam *",
+      "meaning": "Young Lion",
+      "thiruppaavai": true
     },
     {
       "name": "Ilamuhil",
@@ -1141,12 +1147,14 @@
       "meaning": "Who Speaks Sweet; Articulate"
     },
     {
-      "name": "Iniyan",
-      "meaning": "Sweet; Friendly"
+      "name": "Iniyan *",
+      "meaning": "Sweet; Friendly",
+      "thiruppaavai": true
     },
     {
-      "name": "Iniyan",
-      "meaning": "Pleasant Natured; also Iniyavan"
+      "name": "Iniyan *",
+      "meaning": "Pleasant Natured; also Iniyavan",
+      "thiruppaavai": true
     },
     {
       "name": "InnisaiVanan",
@@ -1469,8 +1477,9 @@
       "meaning": "pron. kOlappan"
     },
     {
-      "name": "Komaan",
-      "meaning": "Ruler"
+      "name": "Komaan *",
+      "meaning": "Ruler",
+      "thiruppaavai": true
     },
     {
       "name": "Komagan",
@@ -1653,8 +1662,9 @@
       "meaning": "God Sivan"
     },
     {
-      "name": "Maadhavan",
-      "meaning": "Blessed"
+      "name": "Maadhavan *",
+      "meaning": "Blessed",
+      "thiruppaavai": true
     },
     {
       "name": "Maalan",
@@ -1709,8 +1719,9 @@
       "meaning": "Great King"
     },
     {
-      "name": "Maayan",
-      "meaning": "God Kannan"
+      "name": "Maayan *",
+      "meaning": "God Kannan",
+      "thiruppaavai": true
     },
     {
       "name": "MadhiAlagan",
@@ -1821,8 +1832,9 @@
       "meaning": "Gem"
     },
     {
-      "name": "ManiVannan",
-      "meaning": "God Kannan"
+      "name": "ManiVannan *",
+      "meaning": "God Kannan",
+      "thiruppaavai": true
     },
     {
       "name": "Manivel",
@@ -1913,12 +1925,14 @@
       "meaning": "King of Kings"
     },
     {
-      "name": "Mudhalvan",
-      "meaning": "Prime; Leader"
+      "name": "Mudhalvan *",
+      "meaning": "Prime; Leader",
+      "thiruppaavai": true
     },
     {
-      "name": "Mudhalvan",
-      "meaning": "Important; Prime; also Muthalvan"
+      "name": "Mudhalvan *",
+      "meaning": "Important; Prime; also Muthalvan",
+      "thiruppaavai": true
     },
     {
       "name": "Mudiyarasan",
@@ -1929,8 +1943,9 @@
       "meaning": "Of the Clouds; also Mukilan; see Muhil"
     },
     {
-      "name": "MuhilVannan",
-      "meaning": "God Kannan"
+      "name": "MuhilVannan *",
+      "meaning": "God Kannan",
+      "thiruppaavai": true
     },
     {
       "name": "Mukkannan",
@@ -2053,8 +2068,9 @@
       "meaning": "Orator; Well-versed in the Arts; See Naavalan; also Naavarasu, Naavendan, Naavukkarasu"
     },
     {
-      "name": "Naayagan",
-      "meaning": "Hero"
+      "name": "Naayagan *",
+      "meaning": "Hero",
+      "thiruppaavai": true
     },
     {
       "name": "Nagulan",
@@ -2173,8 +2189,9 @@
       "meaning": "God Sivan"
     },
     {
-      "name": "Natchelvan",
-      "meaning": "Benevolent and Prosperous"
+      "name": "Natchelvan *",
+      "meaning": "Benevolent and Prosperous",
+      "thiruppaavai": true
     },
     {
       "name": "Nathan",
@@ -2417,12 +2434,14 @@
       "meaning": "also PanneerSelvan"
     },
     {
-      "name": "Paraman",
-      "meaning": "Prime"
+      "name": "Paraman *",
+      "meaning": "Prime",
+      "thiruppaavai": true
     },
     {
-      "name": "Paraman",
-      "meaning": "God Sivan"
+      "name": "Paraman *",
+      "meaning": "God Sivan",
+      "thiruppaavai": true
     },
     {
       "name": "ParamaSivan",
@@ -2497,12 +2516,14 @@
       "meaning": ""
     },
     {
-      "name": "Perumaan",
-      "meaning": "King of Kings"
+      "name": "Perumaan *",
+      "meaning": "King of Kings",
+      "thiruppaavai": true
     },
     {
-      "name": "Perumaan",
-      "meaning": "Great King"
+      "name": "Perumaan *",
+      "meaning": "Great King",
+      "thiruppaavai": true
     },
     {
       "name": "Perumagan",
@@ -3621,8 +3642,9 @@
       "meaning": "With Determination; Focussed"
     },
     {
-      "name": "Ulagalandhaan",
-      "meaning": "God Kannan Who measured the Universe in three steps"
+      "name": "Ulagalandhaan *",
+      "meaning": "God Kannan Who measured the Universe in three steps",
+      "thiruppaavai": true
     },
     {
       "name": "UlagaMuthu",
@@ -3665,12 +3687,14 @@
       "meaning": "Truthful"
     },
     {
-      "name": "Uthaman",
-      "meaning": "Truthful"
+      "name": "Uthaman *",
+      "meaning": "Truthful",
+      "thiruppaavai": true
     },
     {
-      "name": "Uthaman",
-      "meaning": "Truthful"
+      "name": "Uthaman *",
+      "meaning": "Truthful",
+      "thiruppaavai": true
     },
     {
       "name": "Vaanavan",
@@ -3709,8 +3733,9 @@
       "meaning": "Unassailable"
     },
     {
-      "name": "Valamburi",
-      "meaning": "Conch Carried by God Kannan"
+      "name": "Valamburi *",
+      "meaning": "Conch Carried by God Kannan",
+      "thiruppaavai": true
     },
     {
       "name": "Valan",
@@ -3721,8 +3746,9 @@
       "meaning": "Skillful; also Vallavan"
     },
     {
-      "name": "Vallal",
-      "meaning": "Prosperous and Generous"
+      "name": "Vallal *",
+      "meaning": "Prosperous and Generous",
+      "thiruppaavai": true
     },
     {
       "name": "ValliManalan",
@@ -3947,12 +3973,14 @@
       "meaning": "Dancing Peacock"
     },
     {
-      "name": "Aambal",
-      "meaning": "Water Lily"
+      "name": "Aambal *",
+      "meaning": "Water Lily",
+      "thiruppaavai": true
     },
     {
-      "name": "Aandaal",
-      "meaning": "Poetess Saint who composed Thiruppaavai"
+      "name": "Aandaal *",
+      "meaning": "Poetess Saint who composed Thiruppaavai",
+      "thiruppaavai": true
     },
     {
       "name": "Aaranam",
@@ -4199,8 +4227,9 @@
       "meaning": "Ray of Intelligence; See ArivuChudar"
     },
     {
-      "name": "Arivu",
-      "meaning": "Wisdom"
+      "name": "Arivu *",
+      "meaning": "Wisdom",
+      "thiruppaavai": true
     },
     {
       "name": "ArivuChudar",
@@ -4287,8 +4316,9 @@
       "meaning": "Unique Girl; See Arumai"
     },
     {
-      "name": "ArumKalam",
-      "meaning": "Rare Jewel"
+      "name": "ArumKalam *",
+      "meaning": "Rare Jewel",
+      "thiruppaavai": true
     },
     {
       "name": "Aruna",
@@ -4347,8 +4377,9 @@
       "meaning": "Precious"
     },
     {
-      "name": "Chelvi",
-      "meaning": "Prosperous"
+      "name": "Chelvi *",
+      "meaning": "Prosperous",
+      "thiruppaavai": true
     },
     {
       "name": "Chemmani",
@@ -4359,8 +4390,9 @@
       "meaning": "Flawless"
     },
     {
-      "name": "Chengan",
-      "meaning": "Beautiful Eyes"
+      "name": "Chengan *",
+      "meaning": "Beautiful Eyes",
+      "thiruppaavai": true
     },
     {
       "name": "CheranMadhevi",
@@ -4407,16 +4439,18 @@
       "meaning": "Daughter of Cholan"
     },
     {
-      "name": "Choodagam",
-      "meaning": "Bracelet"
+      "name": "Choodagam *",
+      "meaning": "Bracelet",
+      "thiruppaavai": true
     },
     {
       "name": "Chudar",
       "meaning": "Brilliant; See Sudar"
     },
     {
-      "name": "Chudarkodi",
-      "meaning": "Brilliant"
+      "name": "Chudarkodi *",
+      "meaning": "Brilliant",
+      "thiruppaavai": true
     },
     {
       "name": "ChudarKodi",
@@ -4571,8 +4605,9 @@
       "meaning": "Young Peacock (Peahen)"
     },
     {
-      "name": "Ilamkili",
-      "meaning": "Young Parrot; Pleasant Voice"
+      "name": "Ilamkili *",
+      "meaning": "Young Parrot; Pleasant Voice",
+      "thiruppaavai": true
     },
     {
       "name": "IlamPirai",
@@ -4643,12 +4678,14 @@
       "meaning": "Sweet Moon; Brilliant;"
     },
     {
-      "name": "Innisai",
-      "meaning": "Melody"
+      "name": "Innisai *",
+      "meaning": "Melody",
+      "thiruppaavai": true
     },
     {
-      "name": "Innisai",
-      "meaning": "Sweet Melody"
+      "name": "Innisai *",
+      "meaning": "Sweet Melody",
+      "thiruppaavai": true
     },
     {
       "name": "Iraimani",
@@ -4755,8 +4792,9 @@
       "meaning": "Goddess of Arts; Goddess Saraswathi; also KalaiMagal"
     },
     {
-      "name": "Kalal",
-      "meaning": "Anklet; Pronounciation - Kazhal"
+      "name": "Kalal *",
+      "meaning": "Anklet; Pronounciation - Kazhal",
+      "thiruppaavai": true
     },
     {
       "name": "Kaliyammal",
@@ -4843,12 +4881,14 @@
       "meaning": "With Pleasant Voice like a Kili"
     },
     {
-      "name": "Kodhai",
-      "meaning": "Beautiful Girl; pron. kOdhai"
+      "name": "Kodhai *",
+      "meaning": "Beautiful Girl; pron. kOdhai",
+      "thiruppaavai": true
     },
     {
-      "name": "Kodhai",
-      "meaning": "Beautiful Girl"
+      "name": "Kodhai *",
+      "meaning": "Beautiful Girl",
+      "thiruppaavai": true
     },
     {
       "name": "KodiMalar",
@@ -4887,12 +4927,14 @@
       "meaning": "Intelligent"
     },
     {
-      "name": "Kulali",
-      "meaning": "With Beautiful Hair"
+      "name": "Kulali *",
+      "meaning": "With Beautiful Hair",
+      "thiruppaavai": true
     },
     {
-      "name": "Kulali",
-      "meaning": "With Beautiful Hair"
+      "name": "Kulali *",
+      "meaning": "With Beautiful Hair",
+      "thiruppaavai": true
     },
     {
       "name": "Kulamagal",
@@ -4943,12 +4985,14 @@
       "meaning": "Sweet Voiced like a Kuyil (Cuckoo); See Kuyili"
     },
     {
-      "name": "Kuyili",
-      "meaning": "Sweet Voiced like a Kuyil (Cuckoo); also Kuyila"
+      "name": "Kuyili *",
+      "meaning": "Sweet Voiced like a Kuyil (Cuckoo); also Kuyila",
+      "thiruppaavai": true
     },
     {
-      "name": "Kuyili",
-      "meaning": "Melodious like Cuckoo"
+      "name": "Kuyili *",
+      "meaning": "Melodious like Cuckoo",
+      "thiruppaavai": true
     },
     {
       "name": "Kuyilisai",
@@ -4975,36 +5019,43 @@
       "meaning": "Queen of Women"
     },
     {
-      "name": "Maadhavi",
-      "meaning": "Blessed; Name of a Creeper"
+      "name": "Maadhavi *",
+      "meaning": "Blessed; Name of a Creeper",
+      "thiruppaavai": true
     },
     {
-      "name": "Maalai",
-      "meaning": "Garland of Flowers"
+      "name": "Maalai *",
+      "meaning": "Garland of Flowers",
+      "thiruppaavai": true
     },
     {
-      "name": "Maalai",
-      "meaning": "Flower Garland"
+      "name": "Maalai *",
+      "meaning": "Flower Garland",
+      "thiruppaavai": true
     },
     {
       "name": "Maalini",
       "meaning": "As Beautiful as Flowers, and Sweet; also Malini"
     },
     {
-      "name": "Maargali",
-      "meaning": "Name of an Auspicious Month"
+      "name": "Maargali *",
+      "meaning": "Name of an Auspicious Month",
+      "thiruppaavai": true
     },
     {
-      "name": "Maargali",
-      "meaning": "Name of a Holy Month"
+      "name": "Maargali *",
+      "meaning": "Name of a Holy Month",
+      "thiruppaavai": true
     },
     {
-      "name": "Maari",
-      "meaning": "Prosperous; Goddess of Rain"
+      "name": "Maari *",
+      "meaning": "Prosperous; Goddess of Rain",
+      "thiruppaavai": true
     },
     {
-      "name": "Maari",
-      "meaning": "Goddess of Rain"
+      "name": "Maari *",
+      "meaning": "Goddess of Rain",
+      "thiruppaavai": true
     },
     {
       "name": "Maariyammal",
@@ -5031,12 +5082,14 @@
       "meaning": "Queen of the Hills"
     },
     {
-      "name": "Malar",
-      "meaning": "Flower"
+      "name": "Malar *",
+      "meaning": "Flower",
+      "thiruppaavai": true
     },
     {
-      "name": "Malar",
-      "meaning": "Flower"
+      "name": "Malar *",
+      "meaning": "Flower",
+      "thiruppaavai": true
     },
     {
       "name": "MalarKodi",
@@ -5295,12 +5348,14 @@
       "meaning": "Confident and Sweet"
     },
     {
-      "name": "Nangai",
-      "meaning": "Cultured Lady"
+      "name": "Nangai *",
+      "meaning": "Cultured Lady",
+      "thiruppaavai": true
     },
     {
-      "name": "Nangai",
-      "meaning": "Beautiful Girl"
+      "name": "Nangai *",
+      "meaning": "Beautiful Girl",
+      "thiruppaavai": true
     },
     {
       "name": "Nanmalar",
@@ -5331,8 +5386,9 @@
       "meaning": "Excellent Lotus Flower"
     },
     {
-      "name": "Nerilai",
-      "meaning": "Bejeweled; Pronounciation - nErizhai"
+      "name": "Nerilai *",
+      "meaning": "Bejeweled; Pronounciation - nErizhai",
+      "thiruppaavai": true
     },
     {
       "name": "Neriya",
@@ -5419,28 +5475,34 @@
       "meaning": "Beautiful Art"
     },
     {
-      "name": "Paadagam",
-      "meaning": "Anklet"
+      "name": "Paadagam *",
+      "meaning": "Anklet",
+      "thiruppaavai": true
     },
     {
-      "name": "Paamaalai",
-      "meaning": "Garland of Songs"
+      "name": "Paamaalai *",
+      "meaning": "Garland of Songs",
+      "thiruppaavai": true
     },
     {
-      "name": "Paavai",
-      "meaning": "Beautiful Girl"
+      "name": "Paavai *",
+      "meaning": "Beautiful Girl",
+      "thiruppaavai": true
     },
     {
-      "name": "Pangayam",
-      "meaning": "Lotus"
+      "name": "Pangayam *",
+      "meaning": "Lotus",
+      "thiruppaavai": true
     },
     {
-      "name": "Poongulal",
-      "meaning": "With Hair like Flower"
+      "name": "Poongulal *",
+      "meaning": "With Hair like Flower",
+      "thiruppaavai": true
     },
     {
-      "name": "Punamayil",
-      "meaning": "Forest Peacock; Unfettered"
+      "name": "Punamayil *",
+      "meaning": "Forest Peacock; Unfettered",
+      "thiruppaavai": true
     },
     {
       "name": "Ragini",
@@ -5543,8 +5605,9 @@
       "meaning": "Tamil Gem; See Sentamil"
     },
     {
-      "name": "Senthaamarai",
-      "meaning": "Red Lotus"
+      "name": "Senthaamarai *",
+      "meaning": "Red Lotus",
+      "thiruppaavai": true
     },
     {
       "name": "Sevandhi",
@@ -5671,8 +5734,9 @@
       "meaning": "Name of a Fragrant Flower"
     },
     {
-      "name": "Thaamarai",
-      "meaning": "Lotus"
+      "name": "Thaamarai *",
+      "meaning": "Lotus",
+      "thiruppaavai": true
     },
     {
       "name": "Thaiyal",
@@ -5795,16 +5859,18 @@
       "meaning": ""
     },
     {
-      "name": "Thirumugam",
-      "meaning": "Beautiful Face"
+      "name": "Thirumugam *",
+      "meaning": "Beautiful Face",
+      "thiruppaavai": true
     },
     {
       "name": "ThiruPaavai",
       "meaning": ""
     },
     {
-      "name": "Thiruvarul",
-      "meaning": "God's Grace"
+      "name": "Thiruvarul *",
+      "meaning": "God's Grace",
+      "thiruppaavai": true
     },
     {
       "name": "Thiruvoli",
@@ -5819,16 +5885,18 @@
       "meaning": "Beautiful Feathers; also Togai, Toagai"
     },
     {
-      "name": "Thoomalar",
-      "meaning": "Flawless Flower"
+      "name": "Thoomalar *",
+      "meaning": "Flawless Flower",
+      "thiruppaavai": true
     },
     {
       "name": "ThooMalar",
       "meaning": "Flower"
     },
     {
-      "name": "Thoomani",
-      "meaning": "Flawless Jewel"
+      "name": "Thoomani *",
+      "meaning": "Flawless Jewel",
+      "thiruppaavai": true
     },
     {
       "name": "Thooya",
@@ -5959,8 +6027,9 @@
       "meaning": ""
     },
     {
-      "name": "Velli",
-      "meaning": "Venus; Silver"
+      "name": "Velli *",
+      "meaning": "Venus; Silver",
+      "thiruppaavai": true
     },
     {
       "name": "Velvili",
