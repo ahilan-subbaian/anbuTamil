@@ -1,63 +1,73 @@
-# anbuTamil
+# React + TypeScript + Vite
 
-This repository contains a Tamil baby-names website built with Vite, React, and TypeScript.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Overview
+Currently, two official plugins are available:
 
-The frontend is located in the `frontend/` directory and is a single-page application that:
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-1. Loads a JSON file of Tamil names (`public/names.json`) which includes two arrays: `boys` and `girls`.
-2. Displays names in a responsive grid with meaning shown under each name.
-3. Allows users to toggle between boys and girls lists.
-4. Provides a search bar to filter names by text and A‑Z buttons to filter by starting letter.
+## React Compiler
 
-Names are sorted alphabetically before being served to ensure predictable navigation.
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Running the project locally
+## Expanding the ESLint configuration
 
-```bash
-# install dependencies
-cd frontend && npm install
+If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
-# start development server
-npm run dev
+```js
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+
+      // Remove tseslint.configs.recommended and replace with this
+      tseslint.configs.recommendedTypeChecked,
+      // Alternatively, use this for stricter rules
+      tseslint.configs.strictTypeChecked,
+      // Optionally, add this for stylistic rules
+      tseslint.configs.stylisticTypeChecked,
+
+      // Other configs...
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
 ```
 
-Open `http://localhost:5174` (or whichever port Vite chooses) in your browser. The app will fetch `/names.json` automatically.
+You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
 
-## Data source
+```js
+// eslint.config.js
+import reactX from 'eslint-plugin-react-x'
+import reactDom from 'eslint-plugin-react-dom'
 
-The `names.json` file in the repository root contains the full dataset. It is copied into `frontend/public/` during development. It must be valid JSON with the following structure:
-
-```json
-{
-  "boys": [ {"name":"...","meaning":"..."}, ... ],
-  "girls": [ {"name":"...","meaning":"..."}, ... ]
-}
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+      // Enable lint rules for React
+      reactX.configs['recommended-typescript'],
+      // Enable lint rules for React DOM
+      reactDom.configs.recommended,
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
 ```
-
-## Features
-
-- **Gender toggle** – view boys or girls names.
-- **Alphabet filter** – click a letter to see names beginning with that letter; the current search text is cleared when changing letters.
-- **Search** – free-text search over names and meanings.
-- **Responsive UI** – cards adjust to screen width.
-
-## Deployment
-
-The app is a static site and can be deployed on GitHub Pages, Netlify, Vercel, etc. Build with:
-
-```bash
-cd frontend && npm run build
-```
-
-Then serve the contents of `frontend/dist`.
-
-## Contributing
-
-Add or update names in the root `names.json` and re-run the sort script provided (`/tmp/sort_names.js` if needed). Ensure the JSON stays valid.
-
----
-
-Additional information and development notes are present in the project documentation.
-Website for Tamil names
