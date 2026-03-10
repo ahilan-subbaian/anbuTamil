@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function SearchBar({ query, setQuery, letter, setLetter }: { query: string; setQuery: (s: string)=>void; letter: string; setLetter: (l: string)=>void }){
   const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
   return (

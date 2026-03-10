@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import './App.css'
 import NameList from './components/NameList'
 import SearchBar from './components/SearchBar'

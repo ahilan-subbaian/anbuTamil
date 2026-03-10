@@ -1,4 +1,3 @@
-import React from 'react'
 import NameCard from './NameCard'
 
 type Name = { name: string; meaning?: string }
